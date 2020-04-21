@@ -25,7 +25,7 @@ SECRET_KEY = 'ujdc11s^ekmqiuehvwabxs61qf497m#6hy)mpb$%kvsyg*$hu1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['.underloud.com','137.117.101.60']
 
 
 # Application definition
